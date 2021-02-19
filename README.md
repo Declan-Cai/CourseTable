@@ -25,9 +25,13 @@
 ## 4.运行效果
 
 ![img5](https://github.com/Declan-Cai/CourseTable/blob/master/images/%E8%B5%B7%E5%A7%8B%E6%AC%A2%E8%BF%8E%E9%A1%B5.png)
+欢迎页面，点开程序显示3s，类似广告页面
 
 ![img6](https://github.com/Declan-Cai/CourseTable/blob/master/images/%E8%AF%BE%E7%A8%8B%E8%A1%A8%E4%B8%BB%E9%A1%B5%E9%A1%B5%E9%9D%A2.png)
+课程表主页
 
 ![img7](https://github.com/Declan-Cai/CourseTable/blob/master/images/%E8%AF%BE%E7%A8%8B%E6%B7%BB%E5%8A%A0activity.png)
+添加课程
 
 ![img8](https://github.com/Declan-Cai/CourseTable/blob/master/images/%E6%9F%A5%E7%9C%8B%E8%AF%BE%E7%A8%8B%E9%A1%B5%E9%9D%A2.png)
+查看课程
