@@ -1,5 +1,5 @@
 # CourseTable
-#基于Android的课程表系统
+#基于Android的课程表系统<br>
 参考自https://github.com/cangeBig/2018118117_Android/tree/master/%E6%9C%9F%E6%9C%AB%E5%A4%A7%E4%BD%9C%E4%B8%9A
 
 ## 1.系统功能模块划分
